@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Copy entry.txt into the output directory."""
+"""Entry for make.fun’s “How Many Tabs Do You Have Open?” bounty.
+
+Copy entry.txt into the output directory the harness sets.
+"""
 
 import os
 import shutil
